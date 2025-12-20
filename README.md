@@ -1,103 +1,147 @@
-# 🔧 REARME PROTOCOL :: ACTIVE
-
 ```ascii
 █▀█ █▀▀ ▄▀█ █▀█ █▀▄▀█ █▀▀
 █▀▄ ██▄ █▀█ █▀▄ █░▀░█ ██▄
-[RE-ARMING SYSTEM... COMPLETE]
 ```
 
-## 👤 OPERATIVE PROFILE
+# Hi 👋 I'm Sohey-K
 
-**Status:** `ACTIVE DEPLOYMENT SEEKING`  
-**Classification:** Cloud Infrastructure Engineer  
-**Previous Assignment:** Telecommunications Infrastructure (15 years) → IT Sector Transition (2020~)  
-**Current Objective:** Remote Cloud Engineering Position  
+インフラエンジニアからクラウドエンジニアへ転換中です。  
+運用ツール開発・データ処理・web開発・AI支援開発を得意としています。
 
 ---
 
-## 🎯 MISSION BRIEFING
+## 🌐 ポートフォリオサイト
 
-Infrastructure engineer transitioning to cloud technologies. Specialized in network automation, system optimization, and rapid skill acquisition through AI-assisted development.
+プロジェクト詳細や開発実績は以下のサイトでご覧いただけます
 
-### 🏆 Recent Combat Records
-- **Syslog Processing Optimization**: Reduced processing time from 3 hours → 10 minutes (**90% efficiency gain**)
-- **Enterprise Network Management**: 700+ wireless APs via Juniper MIST
-- **VXLAN/EVPN Campus Fabric**: Managed Juniper SRX4200, MX240, EX4650
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio_Site-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rearme.vercel.app)
 
 ---
 
-## 🛠️ ARSENAL :: TECH STACK
+## 💼 現在の状況
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Network Technologies
-`Juniper MIST` `VXLAN/EVPN` `SRX Series` `MX Series` `EX Series`
-
-### Development Tools
-`Git` `VSCode` `Cursor` `ChatGPT` `Claude`
+- 🔍 クラウドエンジニアポジション求職中（可能であればフルリモート希望）
+- 🌱 AWS、Terraform、Docker、K8S、Python、React+TypeScriptを学習中
+- 💡 生成AI（ChatGPT、Claude）を活用した効率的な開発を実践
 
 ---
 
-## 📡 DEPLOYED SYSTEMS
+## 🏆 主な実績
 
-### [🌐 REARME Portfolio](https://rearme.vercel.app)
-React + TypeScript cyberpunk-themed portfolio site  
-`Vite` `React Router` `Responsive Design`
+### ネットワーク運用最適化
+- **Syslog処理の効率化**: Python学習開始後すぐに実務課題を解決、3時間→10分に短縮（90%削減）
+- **大規模無線ネットワーク管理**: Juniper MISTで数百台以上のアクセスポイントを運用
+- **VXLAN/EVPN環境**: Juniper SRX4200、MX240、EX4650の管理・運用
 
-### [📊 Flask Ping Monitor](https://github.com/Sohey-k/flask-ping-monitor)
-Network monitoring tool with CRUD operations  
+### 開発プロジェクト
+- Flaskベースのネットワーク監視ツール開発
+- Juniper syslog処理自動化ツール開発
+- React+TypeScriptポートフォリオサイト構築
+
+---
+
+## 🛠️ 技術スタック
+
+### クラウド・インフラ
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 開発言語・フレームワーク
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### ネットワーク
+Juniper (MIST / VXLAN / EVPN) | SRX / MX / EXシリーズ
+
+### ツール
+Git | VSCode | ChatGPT | Claude
+
+---
+
+## 📂 主要リポジトリ
+
+### [🌐 rearme-portfolio](https://github.com/Sohey-k/rearme-portfolio)
+React+TypeScriptで構築したポートフォリオサイト  
+デプロイ先: https://rearme.vercel.app
+
+### [📊 flask-ping-monitor](https://github.com/Sohey-k/flask-ping-monitor)
+CRUD機能を持つネットワーク監視ツール  
 `Flask` `SQLite` `Bootstrap`
 
-### [🔍 Juniper Syslog Filter](https://github.com/Sohey-k/juniper-syslog-filter)
-High-performance log processing tool (90% time reduction)  
-`Python` `pandas` `ETL`
+### [🔍 juniper-syslog-filter](https://github.com/Sohey-k/juniper-syslog-filter)
+Juniper機器のSyslog処理を90%効率化したツール  
+`Python` `pandas` `ETL処理`
 
-### [🎲 Juniper Syslog Generator](https://github.com/Sohey-k/juniper-syslog-generator)
-Test data generation for network monitoring  
-`Python` `Automation`
-
----
-
-## 🎖️ CERTIFICATIONS
-
-- ☁️ **AWS Solutions Architect Associate** (SAA-C03)
-- 🌐 **JNCIA-Junos** (Juniper Networks Certified Associate)
-- 🔧 **CCNA** (Cisco Certified Network Associate)
-- 🐧 **LPIC-2** (Linux Professional Institute Certification)
+### [🎲 juniper-syslog-generator](https://github.com/Sohey-k/juniper-syslog-generator)
+ネットワーク監視用のテストデータ生成ツール  
+`Python` `自動化`
 
 ---
 
-## 📊 COMBAT STATISTICS
+## 🎓 保有資格
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohey-k&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f1fa8c&icon_color=bd93f9&text_color=50fa7b)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohey-k&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f1fa8c&text_color=50fa7b)
-
----
-
-## 🔗 TRANSMISSION CHANNELS
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rearme.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- ☁️ AWS認定ソリューションアーキテクト - アソシエイト (SAA-C03)
+- 🌐 JNCIA-Junos (Juniper Networks認定アソシエイト)
+- 🔧 CCNA (Cisco認定ネットワークアソシエイト)
+- 🐧 LPIC-2 (Linux技術者認定レベル2)
 
 ---
 
-```ascii
-[SYSTEM STATUS]
-▰▰▰▰▰▰▰▰▰▰ 100% OPERATIONAL
+## 📊 GitHub統計
 
-READY FOR NEXT MISSION
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohey-k&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohey-k&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-*"REARME: Constant reconstruction. New challenges."*  
-*~ Rearm yourself for the next battle ~*
+## 📫 連絡先
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=google-chrome&logoColor=white)](https://rearme.vercel.app)
+
+---
+
+## 💭 開発への想い
+
+通信インフラから始まった15年のキャリアを、新しい技術領域へと展開しています。  
+生成AIを活用しながら、実務課題を技術で解決することにやりがいを感じています。
+
+常に学び、技術を更新し続けることを心がけています。
+
+---
+---
+
+## 🌏 English Version
+
+Infrastructure engineer transitioning to cloud engineering.  
+Specialized in operational tool development, data processing, web development, and AI-assisted development.
+
+### 💼 Current Status
+- 🔍 Seeking Cloud Engineer position (remote-friendly preferred)
+- 🌱 Learning: AWS, Terraform, Docker, K8S, Python, React+TypeScript
+- 💡 Practicing efficient development with AI tools (ChatGPT, Claude)
+
+### 🏆 Key Achievements
+- **Syslog Processing Optimization**: Reduced processing time from 3 hours to 10 minutes (90% reduction) shortly after starting Python
+- **Large-scale Wireless Network Management**: Managed hundreds of access points via Juniper MIST
+- **VXLAN/EVPN Environment**: Operated Juniper SRX4200, MX240, EX4650
+
+### 📂 Main Projects
+- [🌐 REARME Portfolio](https://rearme.vercel.app) - React+TypeScript portfolio site
+- [📊 Flask Ping Monitor](https://github.com/Sohey-k/flask-ping-monitor) - Network monitoring tool with CRUD
+- [🔍 Juniper Syslog Filter](https://github.com/Sohey-k/juniper-syslog-filter) - High-performance log processing (90% efficiency gain)
+- [🎲 Juniper Syslog Generator](https://github.com/Sohey-k/juniper-syslog-generator) - Test data generation tool
+
+### 🎓 Certifications
+- ☁️ AWS Solutions Architect Associate (SAA-C03)
+- 🌐 JNCIA-Junos
+- 🔧 CCNA
+- 🐧 LPIC-2
+
+### 💭 Development Philosophy
+Leveraging a 15-year career in telecommunications infrastructure to expand into new technology domains.  
+I find fulfillment in solving real-world challenges through technology with AI assistance.
+
+I believe in continuous learning and constantly updating my skills.
