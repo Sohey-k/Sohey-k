@@ -86,15 +86,6 @@ terraformでAWSリソースをデプロイした、サーバレス環境シス�
 - 🌐 JNCIA-Junos (Juniper Networks認定アソシエイト)
 - 🔧 CCNA (Cisco認定ネットワークアソシエイト)
 - 🐧 LPIC-2 (Linux技術者認定レベル2)
-
----
-
-## 📊 GitHub統計
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohey-k&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohey-k&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📫 連絡先
