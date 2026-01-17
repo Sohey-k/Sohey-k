@@ -76,7 +76,6 @@ Juniper機器のSyslog処理を90%効率化したツール
 
 ### [🎲 syslog-analytics-serverless](https://github.com/Sohey-k/syslog-analytics-serverless)
 terraformでAWSリソースをデプロイした、サーバレス環境シスログ解析ツール
-
 `AWS` `lamda` `S3` `dynamoDB` `CroudFront` `Python` `自動化`
 
 ---
