@@ -74,9 +74,9 @@ CRUD機能を持つネットワーク監視ツール
 Juniper機器のSyslog処理を90%効率化したツール  
 `Python` `pandas` `ETL処理`
 
-### [🎲 juniper-syslog-generator](https://github.com/Sohey-k/juniper-syslog-generator)
-ネットワーク監視用のテストデータ生成ツール  
-`Python` `自動化`
+### [🎲 syslog-analytics-serverless](https://github.com/Sohey-k/syslog-analytics-serverless)
+terraformでAWSリソースをデプロイした、サーバレス環境シスログ解析ツール
+`AWS` `lamda` `S3` `dynamoDB` `CroudFront` `Python` `自動化`
 
 ---
 
